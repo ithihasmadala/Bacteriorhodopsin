@@ -57,10 +57,13 @@
 }
 .card__comments {
   color: #0d0925;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   display: block;
   font-weight: 500;
   font-family: poppins,sans-serif;
+  justify-content: center;
+  text-align: center;
+ 
 }
 .card__text {
   font-size: 15px;
