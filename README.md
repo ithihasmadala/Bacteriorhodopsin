@@ -1,5 +1,7 @@
 ## Bacteriorhodopsin: A comprehensive review of its structure, enzymatic activity and its applications in Opto-Electronics
 
+![Bacteriorhodopsin](slides/1.jpg)
+
 A term paper and presentation submitted for the course: BIO F421 Enzymology taken by [Prof. Raviprasad Aduri](https://universe.bits-pilani.ac.in/goa/aduri/profile), Assistant Professor Dept. of Biological Sciences, BITS Pilani, K K Birla Goa campus.
 
 \\
